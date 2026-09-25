@@ -17,7 +17,8 @@
   },
   "exclude": [
     "node_modules",
-    "**/*.spec.ts"
+    "**/*.spec.ts",
+    "manager-board-mock"
   ],
   "include": [
     "next-env.d.ts",

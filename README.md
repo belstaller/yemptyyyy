@@ -23,6 +23,10 @@ This project is a boilerplate for a full-stack application using Python, Postgre
    - Ensure PostgreSQL is running and accessible.
    - Further instructions would depend on the specific Python setup.
 
+## Manager board mock
+
+`manager-board-mock/` is a standalone, view-only local mock of the Manager's Work Order board. See [manager-board-mock/README.md](manager-board-mock/README.md).
+
 ## Clean Architecture
 The project maintains a strict separation of concerns through its layered architecture. **Dependencies should only point inward**, adhering to the following rules:
 
